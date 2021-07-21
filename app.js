@@ -8,6 +8,7 @@ csv({ delimiter: ';'})
   .fromFile(csvFilePath)
   .then(lifehacks => { //when parse finished, result will be emitted here.
     lifehacks = lifehacks.map(lifehack => {
+        delete lifehack.imageNumber
         lifehack.isFavorite = false;
         lifehack.isFeatured = false;
         return lifehack
