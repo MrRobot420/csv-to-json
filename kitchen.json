@@ -1,50 +1,24 @@
 [
     {
-        "id;title;solution;explanation;imageName;category;imageNumber": [
-            "1;Handfest entsaftet;Halbiere eine Zitrone und drücke sie zwischen den Griffen einer Grillzange aus",
-            "um auch den letzten Saft herauszubekommen.;Wenn du beim auspressen den Zitronensaft durch eine Käsereibe laufen lässt",
-            "werden gleich noch die Kerne mit aufgefangen.;lemon;kitchen;3442"
-        ]
+        "id;title;solution;explanation;imageName;category;imageNumber": "\n1;Handfest entsaftet;Halbiere eine Zitrone und drücke sie zwischen den Griffen einer Grillzange aus, um auch den letzten Saft herauszubekommen.;Wenn du beim auspressen den Zitronensaft durch eine Käsereibe laufen lässt, werden gleich noch die Kerne mit aufgefangen.;lemon;kitchen;3442"
     },
     {
-        "id;title;solution;explanation;imageName;category;imageNumber": [
-            "2;Aufgeklappt;1. Schneide die Schale der Orange am oberen und unteren Ende so ab",
-            "dass du gerade das Fruchtfleisch sehen kannst. 2. Anschließend schneide die Orange quer dazu bis zur Mitte ein. 3. Wenn du nun die Orange am letzten Schnitt auseinanderbrichst… 4. … erhältst du einen Streifen",
-            "auf dem die einzelnen Frachtstücke sitzen.;;orange;kitchen;3442"
-        ]
+        "id;title;solution;explanation;imageName;category;imageNumber": "\n2;Aufgeklappt;1. Schneide die Schale der Orange am oberen und unteren Ende so ab, dass du gerade das Fruchtfleisch sehen kannst. 2. Anschließend schneide die Orange quer dazu bis zur Mitte ein. 3. Wenn du nun die Orange am letzten Schnitt auseinanderbrichst… 4. … erhältst du einen Streifen, auf dem die einzelnen Frachtstücke sitzen.;;orange;kitchen;3442"
     },
     {
-        "id;title;solution;explanation;imageName;category;imageNumber": [
-            "3;Turbo-Schäler;Äpfel lassen sich in wenigen Sekunden schälen",
-            "wenn du sie auf einen Akkuschrauber steckst und während des Drehens einen Sparschäler dagegenhälst.;Vielleicht nicht perfekt alltagstauglich",
-            "aber allemal ein Spaß für Macher und Zuschauer.;apple;kitchen;3442"
-        ]
+        "id;title;solution;explanation;imageName;category;imageNumber": "\n3;Turbo-Schäler;Äpfel lassen sich in wenigen Sekunden schälen, wenn du sie auf einen Akkuschrauber steckst und während des Drehens einen Sparschäler dagegenhälst.;Vielleicht nicht perfekt alltagstauglich, aber allemal ein Spaß für Macher und Zuschauer.;apple;kitchen;3442"
     },
     {
-        "id;title;solution;explanation;imageName;category;imageNumber": [
-            "4;Sauber entkernt;Besonders sauber und ohne lästige Spritzer lassen sich Granatäpfel unter Wasser entkernen. Den Granatapfel quer durchschneiden und mit den Fingern in einer Schüssel die Kerne lösen.;Die Fruchtkerne sinken nach unten",
-            "die faserigen Zellwände steigen an die Wasseroberfläche.;pomegranate;kitchen;3442"
-        ]
+        "id;title;solution;explanation;imageName;category;imageNumber": "\n4;Sauber entkernt;Besonders sauber und ohne lästige Spritzer lassen sich Granatäpfel unter Wasser entkernen. Den Granatapfel quer durchschneiden und mit den Fingern in einer Schüssel die Kerne lösen.;Die Fruchtkerne sinken nach unten, die faserigen Zellwände steigen an die Wasseroberfläche.;pomegranate;kitchen;3442"
     },
     {
-        "id;title;solution;explanation;imageName;category;imageNumber": [
-            "5;Gut Kirschen essen;Wer kennt nicht den weisen Rat von Oma: Kirschen essen und direkt danach trinken",
-            "das lässt man lieber sein. Dieser Mythos",
-            "liebe Oma",
-            "ist leider Unsinn.;Im Gegenteil: Viel trinken ist gesund. Der Speisebrei rutscht mit Hilfe von Wasser schneller aus dem Magen in den Darm.;cherry;kitchen;3443"
-        ]
+        "id;title;solution;explanation;imageName;category;imageNumber": "\n5;Gut Kirschen essen;Wer kennt nicht den weisen Rat von Oma: Kirschen essen und direkt danach trinken, das lässt man lieber sein. Dieser Mythos, liebe Oma, ist leider Unsinn.;Im Gegenteil: Viel trinken ist gesund. Der Speisebrei rutscht mit Hilfe von Wasser schneller aus dem Magen in den Darm.;cherry;kitchen;3443"
     },
     {
-        "id;title;solution;explanation;imageName;category;imageNumber": [
-            "6;Obststifte;Schneide Wassermelonen nicht in Scheiben",
-            "sondern in Stifte.;Die Stifte kann man schnell greifen und bequemer essen als große Scheiben.;watermelon;kitchen;3443"
-        ]
+        "id;title;solution;explanation;imageName;category;imageNumber": "\n6;Obststifte;Schneide Wassermelonen nicht in Scheiben, sondern in Stifte.;Die Stifte kann man schnell greifen und bequemer essen als große Scheiben.;watermelon;kitchen;3443"
     },
     {
-        "id;title;solution;explanation;imageName;category;imageNumber": [
-            "7;Affenclever;Bananen kann man am stumpfen Ende viel einfacher öffnen als am Stielende. Das Ende leicht zusammendrücken und die Schale auseinanderziehen.;Das ist eine Fertigkeit",
-            "die der Mensch vom Affen gelernt hat.;banana;kitchen;3443"
-        ]
+        "id;title;solution;explanation;imageName;category;imageNumber": "\n7;Affenclever;Bananen kann man am stumpfen Ende viel einfacher öffnen als am Stielende. Das Ende leicht zusammendrücken und die Schale auseinanderziehen.;Das ist eine Fertigkeit, die der Mensch vom Affen gelernt hat.;banana;kitchen;3443"
     },
     {
         "id;title;solution;explanation;imageName;category;imageNumber": "\n8;Smoothie-Vorrat;Püriere übriges Obst einfach zu einem feinen Fruchtmus. Dieses kannst du in Einzelportionen einfrieren und bei Bedarf in Fruchtsaft auflösen.;So hast du immer einen Vorrat an leckeren Smoothie-Zutaten parat.;smoothie;kitchen;3443"
