@@ -6,7 +6,12 @@ const outFilePath = "./data/kitchen.json"
 // Convert a csv file with csvtojson
 csv({ delimiter: ';'})
   .fromFile(csvFilePath)
-  .then(function(jsonArrayObj){ //when parse finished, result will be emitted here.
-     console.log(jsonArrayObj);
-     fs.writeFileSync(outFilePath, JSON.stringify(jsonArrayObj, null, 2));
-   })
+  .then(lifehacks => { //when parse finished, result will be emitted here.
+    lifehacks = lifehacks.map(lifehack => {
+        lifehack.isFavorite = false;
+        lifehack.isFeatured = false;
+        return lifehack
+    })
+    console.log(lifehacks);
+    fs.writeFileSync(outFilePath, JSON.stringify(lifehacks, null, 2));
+})
