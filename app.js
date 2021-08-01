@@ -1,7 +1,7 @@
 const fs = require('fs')
 var csv = require("csvtojson");
-const csvFilePath = "./data/kitchen.csv"
-const outFilePath = "./data/kitchen.json"
+const csvFilePath = "./data/lifehacks_de.csv"
+const outFilePath = "./data/lifehacks_de.json"
  
 // Convert a csv file with csvtojson
 csv({ delimiter: ';'})
